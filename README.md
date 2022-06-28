@@ -1,6 +1,5 @@
 # Start Using Blazor Now In Your Existing ASP.NET Core Web App
-
-### Given at dev up conf 2022
+### Presented at dev up conf 2022
 
 Link to the survey: [https://forms.office.com/r/pUiBxwSyQN](https://forms.office.com/r/pUiBxwSyQN)
 
